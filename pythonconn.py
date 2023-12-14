@@ -29,9 +29,7 @@ def load(filename):
 #############################
 
 
-root = tk.Tk()
-root.geometry("950x552")
-root.title('Building Tools [متجر ادوات البناء] ')
+
 
 
 def hh():   
