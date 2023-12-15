@@ -27,7 +27,7 @@ def load(filename):
    return np_image
 
 #############################
-####fffffffffffffffffffffffffffffffffffffff
+
 
 
 
