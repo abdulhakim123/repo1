@@ -27,8 +27,7 @@ def load(filename):
    return np_image
 
 #############################
-
-
+#####
 
 
 def hh():   
